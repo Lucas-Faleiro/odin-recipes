@@ -1,0 +1,23 @@
+* {
+ padding: 0px;
+ margin: 0px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #FF5733;
+}
+
+.recipes {
+  margin-left: 220px;
+  margin-top: 200px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 800;
+}
+
+.recipe-image {
+  width: auto;
+  height: 300px;
+  margin: 30px 0px 0px 55px;
+}
