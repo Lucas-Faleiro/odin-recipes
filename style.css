@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#main-title {
+  background-color: lightgray;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#recipes-link {
+  text-align: center;
+  list-style-type: none;
+}
+
+li,
+a {
+  color: white;
+  background-color: blue;
+  display: inline;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+  padding: 4px;
+}
+
+li:hover,
+a:hover {
+  background-color: lightblue;
+  color: black;
+}
